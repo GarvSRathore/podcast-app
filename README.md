@@ -40,5 +40,3 @@ Podcast information provided by [Listen Notes API](https://www.listennotes.com/)
 | ![welcome](demo/welcome_light.png) | ![podcasts](demo/home_light.png) |![detail](demo/detail_light.png) |![player](demo/player_light.png) |
 |----------|:-------------:|:-------------:|:-------------:|
 
-### Demo
-![player](demo/listen-notes-demo.gif)
