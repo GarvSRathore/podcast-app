@@ -20,7 +20,7 @@ Podcast information provided by [Listen Notes API](https://www.listennotes.com/)
 
 ## Libraries
 
-- Jetpack Compose
+- Jetpack Compose       
 - ExoPlayer
 - Glide
 - Hilt
